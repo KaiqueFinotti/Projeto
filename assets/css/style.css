@@ -1,0 +1,17 @@
+.barra-link {
+    background-color: gray;
+}
+
+.texto {
+    color: black;
+}
+
+.texto a:hover {
+    background-color: white;
+    color: blue;
+}
+
+.texto2 a:hover {
+    background-color: black;
+    color: white;
+}
